@@ -1,4 +1,4 @@
-## Project Team
+## Team name : THE GALACTICOS
 
 **Project : Tata Steel Data Analysis**
 
